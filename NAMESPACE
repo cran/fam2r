@@ -1,0 +1,4 @@
+import(Familias)
+import(paramlink)
+importFrom("utils", "write.table")
+exportPattern("^[[:alpha:]]+")
